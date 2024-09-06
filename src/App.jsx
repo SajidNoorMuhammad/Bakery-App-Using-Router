@@ -16,10 +16,10 @@ function App() {
     <BrowserRouter>
       <Header />
       <Routes>
-        <Route path='/' element={<Home />}></Route>
-        <Route path='/bakery' element={<Bakery />}></Route>
-        <Route path='/about' element={<AboutUs />}></Route>
-        <Route path='/contact' element={<Contact />}></Route>
+        <Route path='/' element={<Home />} />
+        <Route path='/bakery' element={<Bakery />} />
+        <Route path='/about' element={<AboutUs />} />
+        <Route path='/contact' element={<Contact />} />
       </Routes>
       <Footer />
     </BrowserRouter>
