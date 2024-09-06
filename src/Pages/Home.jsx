@@ -1,6 +1,7 @@
 const Home = () => {
     return (
         <>
+
             <section className="bg-cover bg-center h-screen bg-[url('https://images.unsplash.com/photo-1608198093002-0ccf55f9ee08?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80')] flex items-center">
                 <div className="container mx-auto text-red-700 text-center">
                     <h2 className="text-5xl font-bold text-yellow-400 drop-shadow-md">Freshly Baked Every Day</h2>

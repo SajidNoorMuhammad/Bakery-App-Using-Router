@@ -1,10 +1,6 @@
-import { Link } from "react-router-dom";
-
 const Bakery = () => {
-
     return (
         <>
-
             <section id="home" className="bg-cover bg-center h-screen text-white flex items-center justify-center">
                 <div className="bg-black bg-opacity-50 p-8 rounded-lg text-center">
                     <h2 className="text-5xl font-bold mb-4">Freshly Baked, Just for You</h2>
@@ -46,7 +42,7 @@ const Bakery = () => {
                 </div>
             </section>
 
-           
+
         </>
     )
 }
