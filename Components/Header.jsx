@@ -4,7 +4,6 @@ import { Link } from "react-router-dom";
 const Header = () => {
     return (
         <>
-        
         <header className="bg-yellow-400 p-6 shadow-md">
                 <div className="container mx-auto flex justify-between items-center">
                     <h1 className="text-3xl font-bold text-white">Bakery Delights</h1>
